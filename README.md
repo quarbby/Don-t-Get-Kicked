@@ -1,6 +1,8 @@
 # Don't Get Kicked Kaggle Competition
 
-https://www.kaggle.com/c/DontGetKicked/data
+:car: == :lemon:? 1 : 0
+
+Link to competition: https://www.kaggle.com/c/DontGetKicked/
 
 ```
 $sudo pip install -r requirements.txt
